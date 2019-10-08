@@ -1,0 +1,13 @@
+.navbar {
+    background: #6a1b9a;
+    height: 60px;
+}
+
+.navbar h3 {
+    color: rgb(250, 255, 221);
+    font-size: 1.3rem;
+    text-decoration: none;
+    margin: 5px;
+    line-height: 3;
+    font-family: "Source Sans Pro", sans-serif;
+}
