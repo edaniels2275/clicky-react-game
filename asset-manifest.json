@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/clicky-react-game/static/css/main.c77b937d.chunk.css",
-    "main.js": "/clicky-react-game/static/js/main.1faf415b.chunk.js",
-    "main.js.map": "/clicky-react-game/static/js/main.1faf415b.chunk.js.map",
-    "runtime-main.js": "/clicky-react-game/static/js/runtime-main.02de1969.js",
-    "runtime-main.js.map": "/clicky-react-game/static/js/runtime-main.02de1969.js.map",
-    "static/js/2.6390905c.chunk.js": "/clicky-react-game/static/js/2.6390905c.chunk.js",
-    "static/js/2.6390905c.chunk.js.map": "/clicky-react-game/static/js/2.6390905c.chunk.js.map",
-    "index.html": "/clicky-react-game/index.html",
-    "precache-manifest.4680336c2548a6daa9e2bc87fe64a944.js": "/clicky-react-game/precache-manifest.4680336c2548a6daa9e2bc87fe64a944.js",
-    "service-worker.js": "/clicky-react-game/service-worker.js",
-    "static/css/main.c77b937d.chunk.css.map": "/clicky-react-game/static/css/main.c77b937d.chunk.css.map"
+    "main.css": "/eliProjects/clicky-react-game/static/css/main.c77b937d.chunk.css",
+    "main.js": "/eliProjects/clicky-react-game/static/js/main.1faf415b.chunk.js",
+    "main.js.map": "/eliProjects/clicky-react-game/static/js/main.1faf415b.chunk.js.map",
+    "runtime-main.js": "/eliProjects/clicky-react-game/static/js/runtime-main.1ef7a5d6.js",
+    "runtime-main.js.map": "/eliProjects/clicky-react-game/static/js/runtime-main.1ef7a5d6.js.map",
+    "static/js/2.6390905c.chunk.js": "/eliProjects/clicky-react-game/static/js/2.6390905c.chunk.js",
+    "static/js/2.6390905c.chunk.js.map": "/eliProjects/clicky-react-game/static/js/2.6390905c.chunk.js.map",
+    "index.html": "/eliProjects/clicky-react-game/index.html",
+    "precache-manifest.766b331c7e82baa825f34b5a0231ce4e.js": "/eliProjects/clicky-react-game/precache-manifest.766b331c7e82baa825f34b5a0231ce4e.js",
+    "service-worker.js": "/eliProjects/clicky-react-game/service-worker.js",
+    "static/css/main.c77b937d.chunk.css.map": "/eliProjects/clicky-react-game/static/css/main.c77b937d.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.02de1969.js",
+    "static/js/runtime-main.1ef7a5d6.js",
     "static/js/2.6390905c.chunk.js",
     "static/css/main.c77b937d.chunk.css",
     "static/js/main.1faf415b.chunk.js"
